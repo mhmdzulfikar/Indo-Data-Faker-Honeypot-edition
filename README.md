@@ -1,5 +1,9 @@
 # Indo Data Faker 🇮🇩 (Honeypot & Security Edition)
 
+[![NPM Version](https://img.shields.io/npm/v/indo-data-faker.svg)](https://www.npmjs.com/package/indo-data-faker)
+[![NPM Downloads](https://img.shields.io/npm/dt/indo-data-faker.svg)](https://www.npmjs.com/package/indo-data-faker)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A robust Node.js package designed to generate highly realistic Indonesian decoy data (Honeypot). This tool can be used to defend against cyber attacks by flooding attackers with fake data, or it can be utilized for standard testing and development purposes.
 
 ## Features

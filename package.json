@@ -1,0 +1,16 @@
+{
+  "name": "indo-data-faker",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "types": "index.d.ts",
+  "bin": {
+    "indo-data-faker": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
